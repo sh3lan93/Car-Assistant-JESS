@@ -11,7 +11,7 @@ Simple KBS (Knowledge Base System) Project in JESS for Car Diagonistic System.
 You can run this project from eclipse and make your own GUI in java 
 
 --------------------------
-### > ScreenShoots
+### > ScreenShots
 Car Assistant Main Window
 ![Car Assistant Main Window](https://raw.githubusercontent.com/sh3lan93/Car-Assistant-JESS/master/MainScreen.png)
 
