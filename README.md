@@ -31,8 +31,8 @@ Car Assistant is released under the MT Licence
 
 --------------------------
 ### > Under Supervision:
-1. Doc/Heba Elbeh 
-2. Eng/AMira Ibrahim
+1. Dr\ Heba Elbeh 
+2. Eng\ AMira Ibrahim
 
 ------------------------
 ### > Team Members
